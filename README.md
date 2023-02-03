@@ -2,9 +2,4 @@
 
  Python program that takes input and prints it too the screen 
  
- ex: 
- 
-  32         1      9999      523
-+  8    - 3801    + 9999    -  49
-----    ------    ------    -----
-  40     -3800     19998      474
+![Screenshot from 2023-02-03 12-29-27](https://user-images.githubusercontent.com/21143667/216668615-96853a08-3903-4e33-9da7-43c84a93330d.png)
