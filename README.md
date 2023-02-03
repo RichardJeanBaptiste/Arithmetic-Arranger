@@ -1,3 +1,10 @@
 # Arithmetic Formatter
 
-This is the boilerplate for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+ Python program that takes input and prints it too the screen 
+ 
+ ex: 
+ 
+  32         1      9999      523
++  8    - 3801    + 9999    -  49
+----    ------    ------    -----
+  40     -3800     19998      474
